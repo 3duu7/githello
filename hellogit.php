@@ -1,2 +1,2 @@
-print("Hello git");
-promt("¿que tal el curso?")
+print("new hellogit");
+
